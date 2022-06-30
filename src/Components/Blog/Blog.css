@@ -1,0 +1,10 @@
+.py-1:hover {
+	background:rgb(184, 149, 74);
+	color: white;
+	transition: 1s;
+	border: rgb(184, 149, 74);
+}
+.py-1{
+	color: black;
+	border: 1px solid silver;
+}

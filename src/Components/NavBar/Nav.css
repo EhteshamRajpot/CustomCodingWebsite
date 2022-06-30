@@ -1,0 +1,12 @@
+nav{
+	background: rgb(46, 40, 40);
+	height: 100px;
+	
+}
+#navbarCollapse{
+		  background:  rgb(46, 40, 40);
+		  padding-left: 10px;
+}
+.container-fluid{
+	padding: 0%;
+}

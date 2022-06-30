@@ -1,0 +1,9 @@
+#LiveCoffeMaking{
+  position: relative;
+  overflow: hidden;
+}
+#playButton{
+  position: absolute;
+  top: 50%;
+  left: 42%;
+}
